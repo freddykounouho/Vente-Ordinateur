@@ -1,0 +1,81 @@
+body{
+	font-family: poppins; 
+}
+header .carousel-inner .item {
+	height: 100vh;
+}
+footer{
+	height: 250px;
+	background-color: #444;
+}
+footer h1{
+	color: #fff;
+	text-align: center;
+	padding: 50px;
+	text-transform: uppercase;
+
+}
+#accueil{
+
+   
+    text-align: center;
+    font-size: 24px;
+    color: red;
+    /* Autres propriétés CSS que vous souhaitez ajouter */
+  }
+
+.Copyright{
+	text-align: center;
+	font-weight: bold;
+	
+	color: #777;
+}
+
+.contactez{
+	padding: 60px 0;
+	text-align: center;
+}
+.contactez h4{
+	text-transform: uppercase;
+	margin-bottom:  0 auto;
+	width: 400px;
+	border-bottom: 1px solid #02d8dd;
+	margin: 0 auto 20px auto;
+	padding-bottom: 20px;
+}
+
+.propos{
+	padding: 60px 0;
+	text-align: center;
+}
+.propos h4{
+	text-transform: uppercase;
+	margin-bottom:  0 auto;
+	width: 400px;
+	border-bottom: 1px solid #02d8dd;
+	margin: 0 auto 20px auto;
+	padding-bottom: 20px;
+}
+
+.servir{
+	padding: 60px 0;
+	text-align: center;
+}
+.servir h4{
+	text-transform: uppercase;
+	margin-bottom:  0 auto;
+	width: 400px;
+	border-bottom: 1px solid #02d8dd;
+	margin: 0 auto 20px auto;
+	padding-bottom: 20px;
+}
+/* Styles for the navbar */
+
+.navbar-brand {
+  color: #ddd;
+}
+
+/* Styles for the about section */
+#about p {
+  text-align: justify;
+}
